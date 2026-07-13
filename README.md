@@ -1,16 +1,21 @@
-## Hi there 👋
+# Artem Malashevskyi
 
-<!--
-**Metra638/Metra638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer. Background in NetOps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**DevOps:**  
+Kubernetes · Helm · Docker · GitLab CI/CD · Azure Pipelines CI/CD · Ansible · Prometheus · Grafana
+
+**NetOps:**  
+TCP/IP · OSPF · L2/L3 · Network Security
+
+**Cloud:** Microsoft Azure (AKS, Azure DevOps, Virtual Networks, Blob Storage)
+
+---
+
+## Projects
+
+- **[FamilyClub](https://github.com/Metra638/FamilyClub.WebAPI1)** — This is a demo project for learning purposes. Not deployed to production.
