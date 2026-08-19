@@ -1,6 +1,6 @@
 # Artem Malashevskyi
 
-DevOps Engineer. Background in NetOps.
+DevOps Engineer. NetOps Engineer.
 
 ---
 
