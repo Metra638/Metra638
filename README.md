@@ -12,7 +12,7 @@ Kubernetes · Docker · GitLab CI/CD · Azure Pipelines CI/CD · Ansible · Prom
 **NetOps:**  
 TCP/IP · OSPF · L2/L3 · Network Security
 
-**Cloud:** Microsoft Azure (AKS, Azure DevOps, Virtual Networks, Blob Storage)
+**Cloud:** Microsoft Azure (AKS, Azure DevOps, Virtual Networks)
 
 ---
 
