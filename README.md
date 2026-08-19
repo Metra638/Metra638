@@ -7,7 +7,7 @@ DevOps Engineer. Background in NetOps.
 ## Skills
 
 **DevOps:**  
-Kubernetes · Helm · Docker · GitLab CI/CD · Azure Pipelines CI/CD · Ansible · Prometheus · Grafana
+Kubernetes · Docker · GitLab CI/CD · Azure Pipelines CI/CD · Ansible · Prometheus · Grafana
 
 **NetOps:**  
 TCP/IP · OSPF · L2/L3 · Network Security
