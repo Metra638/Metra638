@@ -18,4 +18,4 @@ TCP/IP · OSPF · L2/L3 · Network Security
 
 ## Projects
 
-- **[FamilyClub](https://github.com/Metra638/FamilyClub.WebAPI1)** — This is a demo project for learning purposes. Not deployed to production.
+- **[FamilyClub](https://github.com/Metra638/FamilyClub.WebAPI1)** — This is a demo project for learning purposes.
